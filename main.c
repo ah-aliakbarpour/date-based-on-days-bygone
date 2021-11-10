@@ -3,7 +3,7 @@
 
 int isLeapYear(int year)
 {
-    if ((year % 100 == 0 && year % 400 != 0) || year == 0)
+    if (year % 100 == 0 && year % 400 != 0)
         return 0;
     
     return year % 4 == 0 ? 1 : 0;
