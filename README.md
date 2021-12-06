@@ -1,5 +1,5 @@
-# date-based-on-days-spent
-Determine date based on days spent.
+# date-based-on-days-bygone
+Determine date based on days bygone.
 
 Enter the number of days since the beginning of Gregorian calendar to get the date of that.
 
